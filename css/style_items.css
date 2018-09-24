@@ -1,0 +1,19 @@
+h1 {
+    color: darkcyan;
+}
+
+h2 {
+    color: royalblue;
+}
+
+h1 + p {
+    color: firebrick;
+}
+
+h2 + p {
+    color: forestgreen;
+}
+
+ul {
+    color: darkslategrey;
+}

@@ -3,22 +3,18 @@ body {
 }
 
 h1 {
-    color: darkcyan;
     background-color: thistle;
 }
 
 h2 {
-    color: royalblue;
     background-color: pink;
 }
 
 h1 + p {
-    color: firebrick;
     background-color: lavender;
 }
 
 h2 + p {
-    color: forestgreen;
     background-color: cornsilk;
 }
 
